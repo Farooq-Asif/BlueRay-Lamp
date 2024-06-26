@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BlueRay-Lamp.git/static/css/main.8e030580.css",
+    "main.js": "/BlueRay-Lamp.git/static/js/main.5abbbea0.js",
+    "static/js/453.11203e8d.chunk.js": "/BlueRay-Lamp.git/static/js/453.11203e8d.chunk.js",
+    "static/media/3d-man-casual-work-from-home-technology-communicat_1255023-21195.jpg": "/BlueRay-Lamp.git/static/media/3d-man-casual-work-from-home-technology-communicat_1255023-21195.301375d5c4765dc15b8e.jpg",
+    "static/media/loptop.jpg": "/BlueRay-Lamp.git/static/media/loptop.a078bfdec1efe26388d5.jpg",
+    "index.html": "/BlueRay-Lamp.git/index.html",
+    "main.8e030580.css.map": "/BlueRay-Lamp.git/static/css/main.8e030580.css.map",
+    "main.5abbbea0.js.map": "/BlueRay-Lamp.git/static/js/main.5abbbea0.js.map",
+    "453.11203e8d.chunk.js.map": "/BlueRay-Lamp.git/static/js/453.11203e8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e030580.css",
+    "static/js/main.5abbbea0.js"
+  ]
+}
